@@ -1,0 +1,51 @@
+body{
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+h1{
+    font-size: 50px;
+}
+h3{
+    font-size: 35px;
+}
+.blue-color{
+    color: #11b2fb ;
+}
+.top-banner{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  padding: 0 178px;
+}
+.right-side{
+
+    padding-right: 100px;
+    font-size: 20px;
+}
+
+.title{
+    border-left: 5px solid;
+    border-color:#0690f7;
+    
+}
+.title-content {
+    padding-left: 16px;
+}
+.button-pink-color{
+    background-color: #FF33BB;
+    color: white;
+
+    height: 50px;
+    width: 162px;
+    font-size: 15px;
+    border-radius: 11px;
+}
+.left-side{
+    
+}
+.left-side img{
+  width: 600px;;
+  height: 550px;
+}

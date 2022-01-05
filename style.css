@@ -1,7 +1,8 @@
 body{
     margin: 0;
     padding: 0;
-    overflow: hidden;
+  
+    
 }
 h1{
     font-size: 50px;
@@ -46,6 +47,68 @@ h3{
     
 }
 .left-side img{
-  width: 600px;;
-  height: 550px;
+  width: 530px;;
+  height: 525px;
 }
+/* section mission */
+.section-mission {
+    margin: 20px;
+}
+.section-mission h1{
+    text-align: center;
+
+}
+
+.all-mission{
+    /*! background-color: #EDF5F6; */
+    display: flex;
+    justify-content: space-around;
+}
+.goals{
+    width: 300px;
+    background-color: #FFF4D6;
+    border-radius: 25px;
+}
+.vission {
+    width: 300px;
+    background-color: #FFEEEE;
+    border-radius: 25px;
+  }
+  .mission-content {
+    padding-left: 15px;
+}
+.mission{
+
+    width: 300px;
+    background-color: #EDF5F6;
+     border-radius: 25px;
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
+.mission-img img{
+
+    height: 138px;
+}
+.banner{
+    display: flex;
+    justify-content: space-around;
+}
+.banner-img {
+    height: 530px;
+    width: 525px;
+}
+.right-side-banner {
+    margin: 100px;
+  }
+  .left-side-banner {
+    margin: auto;
+    width: 780px;
+  }
+  .button-pink-color2{
+      background-color:#FF33BB;
+      height: 65px;
+      width: 280px;
+      font-size: 20px;
+      color: white;
+      border-radius: 20px;
+  }

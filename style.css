@@ -24,6 +24,7 @@ h3{
 
     padding-right: 100px;
     font-size: 20px;
+    width: 780px;
 }
 
 .title{
@@ -111,4 +112,10 @@ h3{
       font-size: 20px;
       color: white;
       border-radius: 20px;
+  }
+  .footer{
+      background-color: black;
+      color: white;
+      text-align: center;
+      padding: 25px;
   }

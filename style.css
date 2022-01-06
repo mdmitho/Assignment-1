@@ -113,6 +113,9 @@ h3{
       color: white;
       border-radius: 20px;
   }
+  .banner-title ol {
+    font-size: 35px;
+}
   .footer{
       background-color: black;
       color: white;
